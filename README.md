@@ -1,6 +1,6 @@
-The BOT is written in aiogram 3.x version for Python 3.13
+The BOT(Telegram) is written in aiogram 3.x version for Python 3.13
 
-БОТ написан на aiogram 3.x версии для Python 3.13
+Telegram Bot написан на aiogram 3.x версии для Python 3.13
 
 The media file for modul_14_3 can be downloaded from the link:
 
